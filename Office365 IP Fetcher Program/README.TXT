@@ -1,6 +1,5 @@
 - This program is creating "OFFICE_365_FEEDs" folder under C:\ drive.
 - The program will create 3 files as "ipv4_List.txt", "ipv6_List.txt" and "url_List.txt".
 - After the first run it will backup this files under "C:\OFFICE_365_FEEDs\Backup" before generating the new files.
-- The program generating a new log file under "C:\OFFICE_365_FEEDs\Backup\Logs" in each run.
+- The program generating a new log file under "C:\OFFICE_365_FEEDs\Logs" in each run.
 - If you want to schedule it, you can create a task at "Task Manager" and select the "schedule.bat" file to schedule it.
-
