@@ -21,15 +21,17 @@ By default it is creating a folder and the files under "C:\OFFICE_365_FEEDs".
 ```
 
 ## How it works?
-It generates ipv4_List.txt, ipv6_List.txt and url_List.txt under the specified main-path at the config file:
+It generates _**ipv4_List.txt**_, _**ipv6_List.txt**_ and _**url_List.txt**_ under the specified main-path at the config file:
 
-<image src="screenshots/image1.png" witdh=300 height="200">
+<image src="screenshots/image1.png" witdh=260 height="150">
 
 The app is designed to create backup of the existing files under the Backup path in each run. 
-So if it fails you can revert the files or compare between each other:
+So if it fails you can still have the files or compare between each other in a time:
 
 <image src="screenshots/image2.png" witdh=300 height="200">
 
 Each run it generates logs under specified Log path in the conf file:
 
 <image src="screenshots/image3.png" witdh=220 height="140">
+
+## How to schedule the jar?
