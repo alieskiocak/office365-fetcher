@@ -5,7 +5,7 @@ This repository is to fetch the required IP/URLs from Microsoft for Office 365.
 You can copy **src folder** to your PC and run the ***___jar___*** file. 
 
 ## Modify the config.xml
-By default it is creating a folder and the files under "C:\OFFICE_365_FEEDs". 
+By default it is creating "_OFFICE_365_FEEDs_" folder and the files under "C:\OFFICE_365_FEEDs". 
   You can modify the path from the conf file:
 
 ```
@@ -19,7 +19,7 @@ By default it is creating a folder and the files under "C:\OFFICE_365_FEEDs".
 	</office365>
 </config>
 ```
-**IMPORTANT:** _config.xml_ should be at the same path with the _jar_ file!
+**IMPORTANT:** _config.xml_ should be under the same folder with the _jar_ file!
 
 ## How it works?
 It generates _**ipv4_List.txt**_, _**ipv6_List.txt**_ and _**url_List.txt**_ under the specified main-path at the config file:
