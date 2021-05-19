@@ -21,6 +21,10 @@ By default it is creating a folder and the files under "C:\OFFICE_365_FEEDs".
 ```
 
 ## How it works?
+It generates ipv4_List.txt, ipv6_List.txt and url_List.txt under the specified main-path at the config file:
+
+<image src="screenshots/image1.png" witdh=300 height="200">
+
 The app is designed to create backup of the existing files under the Backup path in each run. 
 So if it fails you can revert the files or compare between each other:
 
