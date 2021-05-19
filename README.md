@@ -48,9 +48,12 @@ As an example:
 
 You can automate it by creating a task from the Task Scheduler:
 
-<image src="screenshots/image6.png" witdh=260 height="150">
+<image src="screenshots/image6.png" witdh=650 height="370">
 
-<image src="screenshots/image4.png" witdh=260 height="150">
+Go to the _"Actions"_:
 	
-<image src="screenshots/image5.png" witdh=260 height="150">
+<image src="screenshots/image4.png" witdh=660 height="450">
 	
+Select the batch file:
+	
+<image src="screenshots/image5.png" witdh=660 height="350">
