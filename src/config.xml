@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<config>
+<!--You can modify the path for Office 365 Files to be created-->
+	<office365>
+		<main-path>C:\OFFICE_365_FEEDs\</main-path>
+		<backup-path>C:\OFFICE_365_FEEDs\Backup\</backup-path>
+		<log-path>C:\OFFICE_365_FEEDs\Logs\</log-path>
+	</office365>
+</config>
