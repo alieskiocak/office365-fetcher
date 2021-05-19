@@ -35,3 +35,22 @@ Each run it generates logs under specified Log path in the conf file:
 <image src="screenshots/image3.png" witdh=220 height="140">
 
 ## How to schedule the jar?
+You can modify the batch file under the src and use your app folder:
+	
+```
+"C:\CHANGE MY DIRECTORY TO THE PROGRAM FOLDER\office365.jar"
+```
+As an example:
+
+```
+"C:\OFFICE365-APP\office365.jar"
+```
+
+You can automate it by creating a task from the Task Scheduler:
+
+<image src="screenshots/image6.png" witdh=260 height="150">
+
+<image src="screenshots/image4.png" witdh=260 height="150">
+	
+<image src="screenshots/image5.png" witdh=260 height="150">
+	
